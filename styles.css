@@ -166,13 +166,14 @@ html, body {
     font-weight: lighter;
 }
 .video {
-    position: absolute;
+    position: absolute;  
     width: 400px;
     height: 400px;
     margin-left: 35%;
     margin-top: -15%;
     padding-bottom: 5%;
     }
+  
 
 .cell4 {
     position: relative;
