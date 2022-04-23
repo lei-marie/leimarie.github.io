@@ -1,0 +1,59 @@
+body {
+    background-color:#187ea6;
+
+}
+.container{
+    margin: 50px;
+    margin-left: 450px;
+    margin-top:45px;
+    width:400px;
+    height:400px;
+    display:grid;
+    grid-template-columns: 200px 200px;
+    grid-row: auto auto;
+    grid-column-gap: 150px;
+    grid-row-gap: 50px;
+    border-radius: 60%;
+}
+.card1 {
+    border: solid black;
+    border-width: 3px;
+    height: 325px;
+    border-radius: 3%;
+}
+
+.card2 {
+    border: solid black;
+    border-width: 3px;
+    height: 325px;
+    border-radius: 3%;
+}
+
+.card3 {
+    border: solid black;
+    border-width: 3px;
+    height: 325px;
+    border-radius: 3%;
+}
+
+.card4 {
+    border: solid black;
+    border-width: 3px;
+    height: 325px;
+    border-radius: 3%;
+}
+/* navigation bar */
+.navbar {
+    margin-bottom: 1em;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.navbar-brand {
+    border: solid  #187ea6;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.dropdown {
+    /* margin-bottom: 1px; */
+    font-family: 'Source Code Pro', monospace;
+}
